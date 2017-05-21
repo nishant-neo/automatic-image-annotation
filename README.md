@@ -1,6 +1,6 @@
 # automatic-image-annotation
 
-##Installation
+## Installation
 * [lda](https://pypi.python.org/pypi/lda)
 
 ## Data Preparation
