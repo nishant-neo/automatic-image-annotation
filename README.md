@@ -1,5 +1,8 @@
 # automatic-image-annotation
 
+##Installation
+* [lda](https://pypi.python.org/pypi/lda)
+
 ## Data Preparation
 * Get the IAPR-T12 dataset and the comments needs to be tokenized using vectorizeIART.py
 * If using NUS dataset the image can be downloaded using datacollector.py which uses reservoir sampling to get random images as the dataset is too large further removes the corrupted images.
